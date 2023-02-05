@@ -1,8 +1,8 @@
 <resources>
-    <string name="app_name">KProfiles Manager</string>
+    <string name="app_name">Perf manager</string>
 
-    <string name="enable_kprofiles">Auto KProfiles: </string>
-    <string name="mode_chooser">KProfile mode: </string>
+    <string name="enable_kprofiles">Mode auto: </string>
+    <string name="mode_chooser">mode: </string>
     <string name="apply">APPLY</string>
 
     <string name="kp_disabled">KProfile: Mode disabled</string>
@@ -13,7 +13,6 @@
     <string name="kp_unknown">KProfile: Mode unknown</string>
     <!-- Spinner choices -->
     <string-array name="functions">
-        <item>None</item>
         <item>Disabled</item>
         <item>Battery</item>
         <item>Balanced</item>
